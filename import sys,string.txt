@@ -1,0 +1,2 @@
+Your Name is import sys,string Your Family Name is  
+ Your Phone Number is name = raw_input('What is your name?: ') Your Home Address is family_name =  raw_input('What is your family name?: ') Your Email Address is phone =  raw_input('What is your phone number?: ')
